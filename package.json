@@ -1,0 +1,14 @@
+{
+  "name": "xdc-issue-1075",
+  "version": "1.0.0",
+  "description": "code example for [issue 1075](https://github.com/XinFinOrg/XDPoSChain/issues/1075)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "viem": "^2.27.0"
+  }
+}
